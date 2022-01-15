@@ -9,6 +9,7 @@
 - [Testing](#testing)
 - [Questions](#questions)
 - [License](#license)
+- [Languages](#languages)
 - [Application Image](#application-image)
 
 ## Description
@@ -49,4 +50,11 @@ If you have any questions feel free to contact me here:
 ## License
 
 MIT
+
+## Languages
+Node.js
+JavaScript
+HTML
+CSS
+Jest
 
