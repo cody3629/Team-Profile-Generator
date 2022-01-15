@@ -52,9 +52,9 @@ If you have any questions feel free to contact me here:
 MIT
 
 ## Languages
-Node.js
-JavaScript
-HTML
-CSS
-Jest
+* Node.js
+* JavaScript
+* HTML
+* CSS
+* Jest
 
