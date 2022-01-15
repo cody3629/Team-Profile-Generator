@@ -226,7 +226,7 @@ const promptIntern = () => {
  .then(answers => {
      console.log(answers);
      const intern = new Intern(answers.name, answers.employeeId, answers.email, answers.school);
-     teamMembers.push(engineer);
+     teamMembers.push(intern);
      promptMenu();
  })
 };
