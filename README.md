@@ -10,12 +10,12 @@
 - [Questions](#questions)
 - [License](#license)
 - [Languages](#languages)
-- [Application Image](#application-image)
 
 ## Description
 
 This project was developed for a homework assignment. The goal of this project was to receive input from the user creating their software team, and then outputting the information onto a webpage. This was developed using Node.js, JavaScript, HTML, CSS, and Jest.
-![image](https://user-images.githubusercontent.com/92649046/149640006-19a30f89-bb98-4edc-895c-872082902c51.png)
+![image](https://user-images.githubusercontent.com/92649046/149640269-4b26408f-fe19-4820-9bbe-2db72dc26f72.png)
+
 
 
 ## Installation
